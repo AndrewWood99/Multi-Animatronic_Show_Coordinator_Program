@@ -1,0 +1,28 @@
+C:\Users\andre\Projects\Razer Crest\Droid Show\Droid_Show_Controller\Maestro\UscCmd\bin\Debug\UscCmd.exe
+C:\Users\andre\Projects\Razer Crest\Droid Show\Droid_Show_Controller\Maestro\UscCmd\bin\Debug\UscCmd.pdb
+C:\Users\andre\Projects\Razer Crest\Droid Show\Droid_Show_Controller\Maestro\UscCmd\bin\Debug\Bytecode.dll
+C:\Users\andre\Projects\Razer Crest\Droid Show\Droid_Show_Controller\Maestro\UscCmd\bin\Debug\UsbWrapper.dll
+C:\Users\andre\Projects\Razer Crest\Droid Show\Droid_Show_Controller\Maestro\UscCmd\bin\Debug\Usc.dll
+C:\Users\andre\Projects\Razer Crest\Droid Show\Droid_Show_Controller\Maestro\UscCmd\bin\Debug\Sequencer.dll
+C:\Users\andre\Projects\Razer Crest\Droid Show\Droid_Show_Controller\Maestro\UscCmd\bin\Debug\UsbWrapper.pdb
+C:\Users\andre\Projects\Razer Crest\Droid Show\Droid_Show_Controller\Maestro\UscCmd\bin\Debug\Usc.pdb
+C:\Users\andre\Projects\Razer Crest\Droid Show\Droid_Show_Controller\Maestro\UscCmd\bin\Debug\Sequencer.pdb
+C:\Users\andre\Projects\Razer Crest\Droid Show\Droid_Show_Controller\Maestro\UscCmd\obj\Debug\UscCmd.csproj.AssemblyReference.cache
+C:\Users\andre\Projects\Razer Crest\Droid Show\Droid_Show_Controller\Maestro\UscCmd\obj\Debug\UscCmd.csproj.CoreCompileInputs.cache
+C:\Users\andre\Projects\Razer Crest\Droid Show\Droid_Show_Controller\Maestro\UscCmd\obj\Debug\UscCmd.exe
+C:\Users\andre\Projects\Razer Crest\Droid Show\Droid_Show_Controller\Maestro\UscCmd\obj\Debug\UscCmd.pdb
+C:\Users\andre\Projects\Razer Crest\Droid Show\Droid_Show_Controller\Maestro\UscCmd\obj\Debug\UscCmd.csproj.Up2Date
+C:\Users\andre\Desktop\Droid Show\Droid_Show_Controller\Maestro\UscCmd\bin\Debug\UscCmd.exe
+C:\Users\andre\Desktop\Droid Show\Droid_Show_Controller\Maestro\UscCmd\bin\Debug\UscCmd.pdb
+C:\Users\andre\Desktop\Droid Show\Droid_Show_Controller\Maestro\UscCmd\bin\Debug\Bytecode.dll
+C:\Users\andre\Desktop\Droid Show\Droid_Show_Controller\Maestro\UscCmd\bin\Debug\UsbWrapper.dll
+C:\Users\andre\Desktop\Droid Show\Droid_Show_Controller\Maestro\UscCmd\bin\Debug\Usc.dll
+C:\Users\andre\Desktop\Droid Show\Droid_Show_Controller\Maestro\UscCmd\bin\Debug\Sequencer.dll
+C:\Users\andre\Desktop\Droid Show\Droid_Show_Controller\Maestro\UscCmd\bin\Debug\UsbWrapper.pdb
+C:\Users\andre\Desktop\Droid Show\Droid_Show_Controller\Maestro\UscCmd\bin\Debug\Usc.pdb
+C:\Users\andre\Desktop\Droid Show\Droid_Show_Controller\Maestro\UscCmd\bin\Debug\Sequencer.pdb
+C:\Users\andre\Desktop\Droid Show\Droid_Show_Controller\Maestro\UscCmd\obj\Debug\UscCmd.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\Droid Show\Droid_Show_Controller\Maestro\UscCmd\obj\Debug\UscCmd.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\Droid Show\Droid_Show_Controller\Maestro\UscCmd\obj\Debug\UscCmd.csproj.Up2Date
+C:\Users\andre\Desktop\Droid Show\Droid_Show_Controller\Maestro\UscCmd\obj\Debug\UscCmd.exe
+C:\Users\andre\Desktop\Droid Show\Droid_Show_Controller\Maestro\UscCmd\obj\Debug\UscCmd.pdb
