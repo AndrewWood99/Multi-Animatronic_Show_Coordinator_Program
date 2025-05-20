@@ -1,5 +1,5 @@
 # Multi-Animatronic_Show_Coordinator_Program
-Custom program for choreographing complext lighting, animatronic, audio, and video shows.
+Custom program for choreographing complex lighting, animatronic, audio, and video shows.
 
 <img src="https://github.com/user-attachments/assets/b40795bd-01e7-4a68-b923-15dd99dbe109" width="500">
 
