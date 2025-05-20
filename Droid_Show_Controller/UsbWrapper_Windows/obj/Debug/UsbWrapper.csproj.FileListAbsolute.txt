@@ -1,0 +1,6 @@
+C:\Users\andre\Projects\Razer Crest\Droid Show\Droid_Show_Controller\UsbWrapper_Windows\bin\Debug\UsbWrapper.dll
+C:\Users\andre\Projects\Razer Crest\Droid Show\Droid_Show_Controller\UsbWrapper_Windows\bin\Debug\UsbWrapper.pdb
+C:\Users\andre\Projects\Razer Crest\Droid Show\Droid_Show_Controller\UsbWrapper_Windows\obj\Debug\UsbWrapper.csproj.AssemblyReference.cache
+C:\Users\andre\Projects\Razer Crest\Droid Show\Droid_Show_Controller\UsbWrapper_Windows\obj\Debug\UsbWrapper.csproj.CoreCompileInputs.cache
+C:\Users\andre\Projects\Razer Crest\Droid Show\Droid_Show_Controller\UsbWrapper_Windows\obj\Debug\UsbWrapper.dll
+C:\Users\andre\Projects\Razer Crest\Droid Show\Droid_Show_Controller\UsbWrapper_Windows\obj\Debug\UsbWrapper.pdb
