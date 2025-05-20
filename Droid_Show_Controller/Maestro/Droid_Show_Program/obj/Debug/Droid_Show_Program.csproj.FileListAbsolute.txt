@@ -1,0 +1,135 @@
+C:\Users\andre\Projects\Razer Crest\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\bin\Debug\Droid_Show_Program.exe
+C:\Users\andre\Projects\Razer Crest\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\bin\Debug\Droid_Show_Program.pdb
+C:\Users\andre\Projects\Razer Crest\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\bin\Debug\UsbWrapper.dll
+C:\Users\andre\Projects\Razer Crest\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\bin\Debug\Usc.dll
+C:\Users\andre\Projects\Razer Crest\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\bin\Debug\Sequencer.dll
+C:\Users\andre\Projects\Razer Crest\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\bin\Debug\Bytecode.dll
+C:\Users\andre\Projects\Razer Crest\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\bin\Debug\UsbWrapper.pdb
+C:\Users\andre\Projects\Razer Crest\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\bin\Debug\Usc.pdb
+C:\Users\andre\Projects\Razer Crest\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\bin\Debug\Sequencer.pdb
+C:\Users\andre\Projects\Razer Crest\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\obj\Debug\Droid_Show_Program.csproj.AssemblyReference.cache
+C:\Users\andre\Projects\Razer Crest\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\obj\Debug\Droid_Show_Program.FrontPage.resources
+C:\Users\andre\Projects\Razer Crest\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\obj\Debug\Droid_Show_Program.Properties.Resources.resources
+C:\Users\andre\Projects\Razer Crest\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\obj\Debug\Droid_Show_Program.RoutineBuilderGroup.resources
+C:\Users\andre\Projects\Razer Crest\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\obj\Debug\Droid_Show_Program.csproj.GenerateResource.cache
+C:\Users\andre\Projects\Razer Crest\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\obj\Debug\Droid_Show_Program.csproj.CoreCompileInputs.cache
+C:\Users\andre\Projects\Razer Crest\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\obj\Debug\Droid_Show_Program.exe
+C:\Users\andre\Projects\Razer Crest\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\obj\Debug\Droid_Show_Program.pdb
+C:\Users\andre\Projects\Razer Crest\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\bin\Debug\Interop.WMPLib.dll
+C:\Users\andre\Projects\Razer Crest\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\obj\Debug\Interop.WMPLib.dll
+C:\Users\andre\Projects\Razer Crest\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\obj\Debug\Droid_Show_Program.csproj.ResolveComReference.cache
+C:\Users\andre\Projects\Razer Crest\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\obj\Debug\Droid_Sh.88DA7F94.Up2Date
+C:\Users\andre\Projects\Razer Crest\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\bin\Debug\NAudio.dll
+C:\Users\andre\Projects\Razer Crest\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\bin\Debug\NAudio.xml
+C:\Users\andre\Desktop\Droid Show - Copy\Droid_Show_Controller\Maestro\Droid_Show_Program\bin\Debug\Droid_Show_Program.exe
+C:\Users\andre\Desktop\Droid Show - Copy\Droid_Show_Controller\Maestro\Droid_Show_Program\bin\Debug\Droid_Show_Program.pdb
+C:\Users\andre\Desktop\Droid Show - Copy\Droid_Show_Controller\Maestro\Droid_Show_Program\bin\Debug\NAudio.dll
+C:\Users\andre\Desktop\Droid Show - Copy\Droid_Show_Controller\Maestro\Droid_Show_Program\bin\Debug\UsbWrapper.dll
+C:\Users\andre\Desktop\Droid Show - Copy\Droid_Show_Controller\Maestro\Droid_Show_Program\bin\Debug\Usc.dll
+C:\Users\andre\Desktop\Droid Show - Copy\Droid_Show_Controller\Maestro\Droid_Show_Program\bin\Debug\Sequencer.dll
+C:\Users\andre\Desktop\Droid Show - Copy\Droid_Show_Controller\Maestro\Droid_Show_Program\bin\Debug\Bytecode.dll
+C:\Users\andre\Desktop\Droid Show - Copy\Droid_Show_Controller\Maestro\Droid_Show_Program\bin\Debug\UsbWrapper.pdb
+C:\Users\andre\Desktop\Droid Show - Copy\Droid_Show_Controller\Maestro\Droid_Show_Program\bin\Debug\Usc.pdb
+C:\Users\andre\Desktop\Droid Show - Copy\Droid_Show_Controller\Maestro\Droid_Show_Program\bin\Debug\NAudio.xml
+C:\Users\andre\Desktop\Droid Show - Copy\Droid_Show_Controller\Maestro\Droid_Show_Program\bin\Debug\Sequencer.pdb
+C:\Users\andre\Desktop\Droid Show - Copy\Droid_Show_Controller\Maestro\Droid_Show_Program\bin\Debug\Interop.WMPLib.dll
+C:\Users\andre\Desktop\Droid Show - Copy\Droid_Show_Controller\Maestro\Droid_Show_Program\obj\Debug\Droid_Show_Program.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\Droid Show - Copy\Droid_Show_Controller\Maestro\Droid_Show_Program\obj\Debug\Interop.WMPLib.dll
+C:\Users\andre\Desktop\Droid Show - Copy\Droid_Show_Controller\Maestro\Droid_Show_Program\obj\Debug\Droid_Show_Program.csproj.ResolveComReference.cache
+C:\Users\andre\Desktop\Droid Show - Copy\Droid_Show_Controller\Maestro\Droid_Show_Program\obj\Debug\Droid_Show_Program.FrontPage.resources
+C:\Users\andre\Desktop\Droid Show - Copy\Droid_Show_Controller\Maestro\Droid_Show_Program\obj\Debug\Droid_Show_Program.Properties.Resources.resources
+C:\Users\andre\Desktop\Droid Show - Copy\Droid_Show_Controller\Maestro\Droid_Show_Program\obj\Debug\Droid_Show_Program.RoutineBuilderGroup.resources
+C:\Users\andre\Desktop\Droid Show - Copy\Droid_Show_Controller\Maestro\Droid_Show_Program\obj\Debug\Droid_Show_Program.csproj.GenerateResource.cache
+C:\Users\andre\Desktop\Droid Show - Copy\Droid_Show_Controller\Maestro\Droid_Show_Program\obj\Debug\Droid_Show_Program.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\Droid Show - Copy\Droid_Show_Controller\Maestro\Droid_Show_Program\obj\Debug\Droid_Sh.88DA7F94.Up2Date
+C:\Users\andre\Desktop\Droid Show - Copy\Droid_Show_Controller\Maestro\Droid_Show_Program\obj\Debug\Droid_Show_Program.exe
+C:\Users\andre\Desktop\Droid Show - Copy\Droid_Show_Controller\Maestro\Droid_Show_Program\obj\Debug\Droid_Show_Program.pdb
+C:\Users\TSJ\Desktop\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\bin\Debug\Droid_Show_Program.exe.config
+C:\Users\TSJ\Desktop\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\bin\Debug\Droid_Show_Program.exe
+C:\Users\TSJ\Desktop\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\bin\Debug\Droid_Show_Program.pdb
+C:\Users\TSJ\Desktop\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\bin\Debug\NAudio.dll
+C:\Users\TSJ\Desktop\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\bin\Debug\UsbWrapper.dll
+C:\Users\TSJ\Desktop\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\bin\Debug\Usc.dll
+C:\Users\TSJ\Desktop\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\bin\Debug\Sequencer.dll
+C:\Users\TSJ\Desktop\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\bin\Debug\Bytecode.dll
+C:\Users\TSJ\Desktop\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\bin\Debug\UsbWrapper.pdb
+C:\Users\TSJ\Desktop\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\bin\Debug\Usc.pdb
+C:\Users\TSJ\Desktop\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\bin\Debug\NAudio.xml
+C:\Users\TSJ\Desktop\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\bin\Debug\Sequencer.pdb
+C:\Users\TSJ\Desktop\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\obj\Debug\Droid_Show_Program.csproj.AssemblyReference.cache
+C:\Users\TSJ\Desktop\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\obj\Debug\Interop.WMPLib.dll
+C:\Users\TSJ\Desktop\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\obj\Debug\Droid_Show_Program.csproj.ResolveComReference.cache
+C:\Users\TSJ\Desktop\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\obj\Debug\Droid_Show_Program.FrontPage.resources
+C:\Users\TSJ\Desktop\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\obj\Debug\Droid_Show_Program.Properties.Resources.resources
+C:\Users\TSJ\Desktop\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\obj\Debug\Droid_Show_Program.RoutineBuilderGroup.resources
+C:\Users\TSJ\Desktop\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\obj\Debug\Droid_Show_Program.csproj.GenerateResource.cache
+C:\Users\TSJ\Desktop\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\obj\Debug\Droid_Show_Program.csproj.CoreCompileInputs.cache
+C:\Users\TSJ\Desktop\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\obj\Debug\Droid_Sh.88DA7F94.Up2Date
+C:\Users\TSJ\Desktop\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\obj\Debug\Droid_Show_Program.exe
+C:\Users\TSJ\Desktop\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\obj\Debug\Droid_Show_Program.pdb
+C:\Users\TSJ\Desktop\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\bin\Debug\Interop.WMPLib.dll
+C:\Users\TSJ\Desktop\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\TSJ\Desktop\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\TSJ\Desktop\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\obj\Debug\Droid_Show_Program.VideoPage.resources
+C:\Users\andre\Desktop\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\bin\Debug\Droid_Show_Program.exe.config
+C:\Users\andre\Desktop\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\bin\Debug\Droid_Show_Program.exe
+C:\Users\andre\Desktop\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\bin\Debug\Droid_Show_Program.pdb
+C:\Users\andre\Desktop\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\bin\Debug\NAudio.dll
+C:\Users\andre\Desktop\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\bin\Debug\UsbWrapper.dll
+C:\Users\andre\Desktop\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\bin\Debug\Usc.dll
+C:\Users\andre\Desktop\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\bin\Debug\Sequencer.dll
+C:\Users\andre\Desktop\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\bin\Debug\Bytecode.dll
+C:\Users\andre\Desktop\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\bin\Debug\UsbWrapper.pdb
+C:\Users\andre\Desktop\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\bin\Debug\Usc.pdb
+C:\Users\andre\Desktop\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\bin\Debug\NAudio.xml
+C:\Users\andre\Desktop\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\bin\Debug\Sequencer.pdb
+C:\Users\andre\Desktop\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\bin\Debug\Interop.WMPLib.dll
+C:\Users\andre\Desktop\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\andre\Desktop\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\obj\Debug\Droid_Show_Program.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\obj\Debug\Interop.WMPLib.dll
+C:\Users\andre\Desktop\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\andre\Desktop\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\obj\Debug\Droid_Show_Program.csproj.ResolveComReference.cache
+C:\Users\andre\Desktop\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\obj\Debug\Droid_Show_Program.FrontPage.resources
+C:\Users\andre\Desktop\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\obj\Debug\Droid_Show_Program.Properties.Resources.resources
+C:\Users\andre\Desktop\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\obj\Debug\Droid_Show_Program.RoutineBuilderGroup.resources
+C:\Users\andre\Desktop\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\obj\Debug\Droid_Show_Program.VideoPage.resources
+C:\Users\andre\Desktop\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\obj\Debug\Droid_Show_Program.csproj.GenerateResource.cache
+C:\Users\andre\Desktop\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\obj\Debug\Droid_Show_Program.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\obj\Debug\Droid_Sh.88DA7F94.Up2Date
+C:\Users\andre\Desktop\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\obj\Debug\Droid_Show_Program.exe
+C:\Users\andre\Desktop\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\obj\Debug\Droid_Show_Program.pdb
+C:\Users\andre\Desktop\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\bin\Debug\Droid_Show_Program.exe.manifest
+C:\Users\andre\Desktop\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\bin\Debug\Droid_Show_Program.application
+C:\Users\andre\Desktop\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\obj\Debug\Droid_Show_Program.exe.manifest
+C:\Users\andre\Desktop\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\obj\Debug\Droid_Show_Program.application
+C:\Users\andre\Projects\TSJ\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\bin\Debug\Droid_Show_Program.exe.config
+C:\Users\andre\Projects\TSJ\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\bin\Debug\Droid_Show_Program.exe.manifest
+C:\Users\andre\Projects\TSJ\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\bin\Debug\Droid_Show_Program.application
+C:\Users\andre\Projects\TSJ\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\bin\Debug\Droid_Show_Program.exe
+C:\Users\andre\Projects\TSJ\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\bin\Debug\Droid_Show_Program.pdb
+C:\Users\andre\Projects\TSJ\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\bin\Debug\NAudio.dll
+C:\Users\andre\Projects\TSJ\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\bin\Debug\UsbWrapper.dll
+C:\Users\andre\Projects\TSJ\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\bin\Debug\Usc.dll
+C:\Users\andre\Projects\TSJ\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\bin\Debug\Sequencer.dll
+C:\Users\andre\Projects\TSJ\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\bin\Debug\Bytecode.dll
+C:\Users\andre\Projects\TSJ\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\bin\Debug\UsbWrapper.pdb
+C:\Users\andre\Projects\TSJ\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\bin\Debug\Usc.pdb
+C:\Users\andre\Projects\TSJ\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\bin\Debug\NAudio.xml
+C:\Users\andre\Projects\TSJ\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\bin\Debug\Sequencer.pdb
+C:\Users\andre\Projects\TSJ\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\bin\Debug\Interop.WMPLib.dll
+C:\Users\andre\Projects\TSJ\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\andre\Projects\TSJ\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\obj\Debug\Droid_Show_Program.csproj.AssemblyReference.cache
+C:\Users\andre\Projects\TSJ\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\obj\Debug\Interop.WMPLib.dll
+C:\Users\andre\Projects\TSJ\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\andre\Projects\TSJ\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\obj\Debug\Droid_Show_Program.csproj.ResolveComReference.cache
+C:\Users\andre\Projects\TSJ\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\obj\Debug\Droid_Show_Program.FrontPage.resources
+C:\Users\andre\Projects\TSJ\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\obj\Debug\Droid_Show_Program.Properties.Resources.resources
+C:\Users\andre\Projects\TSJ\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\obj\Debug\Droid_Show_Program.RoutineBuilderGroup.resources
+C:\Users\andre\Projects\TSJ\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\obj\Debug\Droid_Show_Program.VideoPage.resources
+C:\Users\andre\Projects\TSJ\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\obj\Debug\Droid_Show_Program.csproj.GenerateResource.cache
+C:\Users\andre\Projects\TSJ\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\obj\Debug\Droid_Show_Program.csproj.CoreCompileInputs.cache
+C:\Users\andre\Projects\TSJ\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\obj\Debug\Droid_Show_Program.exe.manifest
+C:\Users\andre\Projects\TSJ\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\obj\Debug\Droid_Show_Program.application
+C:\Users\andre\Projects\TSJ\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\obj\Debug\Droid_Sh.88DA7F94.Up2Date
+C:\Users\andre\Projects\TSJ\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\obj\Debug\Droid_Show_Program.exe
+C:\Users\andre\Projects\TSJ\Droid Show\Droid_Show_Controller\Maestro\Droid_Show_Program\obj\Debug\Droid_Show_Program.pdb

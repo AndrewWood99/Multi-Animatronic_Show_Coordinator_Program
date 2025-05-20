@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Droid_Show_Program.exe" version="1.0.0.3" publicKeyToken="5ccf72a551e11ebb" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Droid_Show_Program" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Droid_Show_Program.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AxInterop.WMPLib.dll" size="53760">
+      <assemblyIdentity name="AxInterop.WMPLib" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>bE/wYgq2TIB3UcUYZEfMKpX4j2l58p0FSJbIOqwXY9M=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Bytecode.dll" size="20480">
+      <assemblyIdentity name="Bytecode" version="1.1.6887.26187" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>79GI8diikxEiMNoC4mwLQUu5Bz6B/puQ2rfR7g805Wc=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Droid_Show_Program.exe" size="103856">
+      <assemblyIdentity name="Droid_Show_Program" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>WC0AnWzGMBQm/1xyLLRuWoPkQ7bl5x4Vc6/cch87VGU=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Interop.WMPLib.dll" size="335872">
+      <assemblyIdentity name="Interop.WMPLib" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>orxOed0eEFpyOf8VgpGUqzWb/gFux/LnB7226BJD2ho=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="NAudio.dll" size="513536">
+      <assemblyIdentity name="NAudio" version="1.10.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>vEusw7iyjYmPFnG3nyFsykOfletgzTLT4+yvvsrEJ4A=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Sequencer.dll" size="11776">
+      <assemblyIdentity name="Sequencer" version="1.2.8812.20076" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>dzbkwsAKkHw8XTm1WSSLw5OBdUf20fa8GPsCWPOqNSg=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="UsbWrapper.dll" size="18944">
+      <assemblyIdentity name="UsbWrapper" version="1.5.2.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>fjIsDRCRZGLUNns59ob3qEGE1w0vgAl76rkLFjkcZqc=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Usc.dll" size="38400">
+      <assemblyIdentity name="Usc" version="1.3.1.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>pc3sVkca7XYLGBP+fEKPoSW8wg16K1hvQ+lJJK9Td7c=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Droid_Show_Program.exe.config" size="161">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>1hvekB5xicyX1FodTEqjnUxN4raEGXc+x3QzhQbWWa0=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=WOODYPC\andre" issuerKeyHash="80ae2d79c2c2773b69625809a7813ebcc5e150a1" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>flV0dO8P746Q/AhdcszY4/0N9Qu7W2QtFhwZeYr5KNc=</DigestValue></Reference></SignedInfo><SignatureValue>f3+NQAxtWPUkyzEHBx8/bBPJwzt+IxbRQiDkEkbhXe6v0RhqPNFc8GvA1M2w5/oPrC1rl1tAMy3rznwU9+5dHijKbbfdXO8NTkIkvhXV4vyMhwg8JjCkp9vmiz5fYcJCKhbUMYt79gvmtGxTaAByYwiBeVKL2sLyKXM9YAWqKhw=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>r5auiEJw+fyq5cUVyuqB/dkcTPRzOe2JvZdF1mFaLiA4FxRdUxxb2qZPpGWMsxcSBAKcmnpy0d3KsCGaqy3qsbDYeZQGRLWM/rInQfUYkxJan+9VnMZsThKJgBRkkkprhCUeyr3LAWi5UzpG90X6ZeXE0bXSdQQucINzOjcfQPk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="d728f98a79191c162d645bbb0bf50dfde3d8cc725d08fc908eef0fef7474557e" Description="" Url=""><as:assemblyIdentity name="Droid_Show_Program.exe" version="1.0.0.3" publicKeyToken="5ccf72a551e11ebb" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=WOODYPC\andre</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>g56tpSyVjQ6Mzyw8urhyUsmfl/KMQnN2VbvgUWeky/U=</DigestValue></Reference></SignedInfo><SignatureValue>Dwst0YD4chV0DlaLAYIViBlKa5SbWEna8tgPN0M4S1Ij2gOrmztcX0BKFWV+PPIpde9EYtp7+8PNFTwekRUFwYv7q0jGvuRKdk8TeBWRX7MEJUlzWFbFs/NHHTdJIytJuOp6E+NRLKII61lOte5awATl4Q7TwmRoKNmUIkwfxRE=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>r5auiEJw+fyq5cUVyuqB/dkcTPRzOe2JvZdF1mFaLiA4FxRdUxxb2qZPpGWMsxcSBAKcmnpy0d3KsCGaqy3qsbDYeZQGRLWM/rInQfUYkxJan+9VnMZsThKJgBRkkkprhCUeyr3LAWi5UzpG90X6ZeXE0bXSdQQucINzOjcfQPk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIBzTCCATagAwIBAgIQPEpWAP4jpKJBd6MK/iyYPzANBgkqhkiG9w0BAQsFADAlMSMwIQYDVQQDHhoAVwBPAE8ARABZAFAAQwBcAGEAbgBkAHIAZTAeFw0yNDA0MjQwODM1NDdaFw0yNTA0MjQxNDM1NDdaMCUxIzAhBgNVBAMeGgBXAE8ATwBEAFkAUABDAFwAYQBuAGQAcgBlMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCvlq6IQnD5/KrlxRXK6oH92RxM9HM57Ym9l0XWYVouIDgXFF1THFvapk+kZYyzFxIEApyaenLR3cqwIZqrLeqxsNh5lAZEtYz+sidB9RiTElqf71WcxmxOEomAFGSSSmuEJR7KvcsBaLlTOkb3Rfpl5cTRtdJ1BC5wg3M6Nx9A+QIDAQABMA0GCSqGSIb3DQEBCwUAA4GBAJD57QydC6KOi5CK8ycaWWVeemjfehCQKfzr9GZEW2Ep4L4HE3S5hOwZCy5Dr9JQ0UY5Dzcwwezp9Zro0YmRvXfwTCnUQHRY5Rv5eCtrL9vt9z8+R0oNt/MwAka9JEBcGcviw4cRMLr1w4nwmsIfBfyUHTxV6VEDmsKrIrsQp0Z4</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
