@@ -1,0 +1,11 @@
+
+00450286
+StartTime;0.0;Sequence#;0;AudioFile;C:\Users\TSJ\Desktop\Droid Sounds\nothing.wav
+StartTime;3.5;Sequence#;3;AudioFile;n/a
+StartTime;4.1;Sequence#;n/a;AudioFile;C:\Users\TSJ\Desktop\Droid Sounds\i-want-a-bigger-blaster-101soundboards.wav
+StartTime;4.2;Sequence#;4;AudioFile;n/a
+StartTime;4.7;Sequence#;4;AudioFile;n/a
+StartTime;6.5;Sequence#;0;AudioFile;n/a
+StartTime;7.0;Sequence#;1;AudioFile;C:\Users\TSJ\Desktop\Droid Sounds\RogerRoger.wav
+StartTime;10.0;Sequence#;9;AudioFile;n/a
+StartTime;450.0;Sequence#;n/a;AudioFile;n/a

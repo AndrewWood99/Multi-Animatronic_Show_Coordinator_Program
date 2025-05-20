@@ -1,0 +1,13 @@
+
+00444817
+StartTime;0.0;Sequence#;0;AudioFile;C:\Users\TSJ\Desktop\Droid Sounds\nothing.wav
+StartTime;0.5;Sequence#;3;AudioFile;n/a
+StartTime;1.5;Sequence#;n/a;AudioFile;C:\Users\TSJ\Desktop\Droid Sounds\this-is-alot-more-fun-when-they-dont-shoot-back-101soundboards.wav
+StartTime;1.6;Sequence#;4;AudioFile;n/a
+StartTime;2.0;Sequence#;4;AudioFile;n/a
+StartTime;2.4;Sequence#;4;AudioFile;n/a
+StartTime;2.8;Sequence#;4;AudioFile;n/a
+StartTime;7.0;Sequence#;0;AudioFile;n/a
+StartTime;7.3;Sequence#;1;AudioFile;n/a
+StartTime;7.4;Sequence#;n/a;AudioFile;C:\Users\TSJ\Desktop\Droid Sounds\roger-roger-2-101soundboards.wav
+StartTime;180.0;Sequence#;n/a;AudioFile;n/a

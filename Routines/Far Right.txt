@@ -1,0 +1,12 @@
+Left NEW
+00444875
+StartTime;0.0;Sequence#;0;AudioFile;C:\Users\TSJ\Desktop\Droid Sounds\nothing.wav
+StartTime;0.2;Sequence#;6;AudioFile;n/a
+StartTime;0.8;Sequence#;n/a;AudioFile;C:\Users\TSJ\Desktop\Droid Sounds\i-wanna-be-upgraded-to-a-g-series-101soundboards.wav
+StartTime;1.1;Sequence#;7;AudioFile;n/a
+StartTime;1.5;Sequence#;7;AudioFile;n/a
+StartTime;1.9;Sequence#;7;AudioFile;n/a
+StartTime;6.5;Sequence#;0;AudioFile;n/a
+StartTime;6.8;Sequence#;1;AudioFile;C:\Users\TSJ\Desktop\Droid Sounds\roger-roger-1-101soundboards.wav
+StartTime;10.0;Sequence#;9;AudioFile;n/a
+StartTime;450.0;Sequence#;n/a;AudioFile;n/a

@@ -1,0 +1,9 @@
+
+00444825
+StartTime;0.0;Sequence#;0;AudioFile;C:\Users\TSJ\Desktop\Droid Sounds\nothing.wav
+StartTime;5.7;Sequence#;6;AudioFile;n/a
+StartTime;6.0;Sequence#;7;AudioFile;n/a
+StartTime;6.1;Sequence#;n/a;AudioFile;C:\Users\TSJ\Desktop\Droid Sounds\cut-chatter-101soundboards.wav
+StartTime;6.5;Sequence#;7;AudioFile;n/a
+StartTime;8.4;Sequence#;0;AudioFile;n/a
+StartTime;180.0;Sequence#;n/a;AudioFile;n/a
