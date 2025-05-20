@@ -1,0 +1,11 @@
+
+00444807
+StartTime;0.0;Sequence#;0;AudioFile;C:\Users\TSJ\Desktop\Droid Sounds\nothing.wav
+StartTime;0.5;Sequence#;n/a;AudioFile;C:\Users\TSJ\Desktop\Droid Sounds\ah-sir-101soundboards.wav
+StartTime;1.0;Sequence#;1;AudioFile;n/a
+StartTime;3.4;Sequence#;n/a;AudioFile;C:\Users\TSJ\Desktop\Droid Sounds\i-need-servicing-101soundboards.wav
+StartTime;3.5;Sequence#;1;AudioFile;n/a
+StartTime;3.9;Sequence#;1;AudioFile;n/a
+StartTime;6.3;Sequence#;n/a;AudioFile;C:\Users\TSJ\Desktop\Droid Sounds\RogerRoger.wav
+StartTime;6.4;Sequence#;1;AudioFile;n/a
+StartTime;180.0;Sequence#;n/a;AudioFile;n/a

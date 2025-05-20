@@ -1,0 +1,15 @@
+
+00444817
+StartTime;0.0;Sequence#;0;AudioFile;C:\Users\TSJ\Desktop\Droid Sounds\nothing.wav
+StartTime;0.5;Sequence#;3;AudioFile;n/a
+StartTime;1.2;Sequence#;n/a;AudioFile;C:\Users\TSJ\Desktop\Droid Sounds\ah-sir-101soundboards.wav
+StartTime;1.3;Sequence#;5;AudioFile;n/a
+StartTime;1.9;Sequence#;5;AudioFile;n/a
+StartTime;3.6;Sequence#;4;AudioFile;C:\Users\TSJ\Desktop\Droid Sounds\i-forgot-my-orders-101soundboards.wav
+StartTime;4.0;Sequence#;4;AudioFile;n/a
+StartTime;6.5;Sequence#;0;AudioFile;n/a
+StartTime;7.0;Sequence#;n/a;AudioFile;C:\Users\TSJ\Desktop\Droid Sounds\uh-well-its-my-programming-101soundboards.wav
+StartTime;7.1;Sequence#;1;AudioFile;n/a
+StartTime;8.2;Sequence#;1;AudioFile;n/a
+StartTime;8.6;Sequence#;1;AudioFile;n/a
+StartTime;180.0;Sequence#;n/a;AudioFile;n/a

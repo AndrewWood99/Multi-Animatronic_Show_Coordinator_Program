@@ -1,0 +1,11 @@
+
+00444825
+StartTime;0.0;Sequence#;0;AudioFile;C:\Users\TSJ\Desktop\Droid Sounds\nothing.wav
+StartTime;2.1;Sequence#;6;AudioFile;n/a
+StartTime;2.5;Sequence#;n/a;AudioFile;C:\Users\TSJ\Desktop\Droid Sounds\yes-101soundboards.wav
+StartTime;2.7;Sequence#;8;AudioFile;n/a
+StartTime;4.6;Sequence#;n/a;AudioFile;C:\Users\TSJ\Desktop\Droid Sounds\dont-even-think-about-it-101soundboards.wav
+StartTime;4.7;Sequence#;7;AudioFile;n/a
+StartTime;5.1;Sequence#;7;AudioFile;n/a
+StartTime;7.1;Sequence#;0;AudioFile;n/a
+StartTime;180.0;Sequence#;n/a;AudioFile;n/a

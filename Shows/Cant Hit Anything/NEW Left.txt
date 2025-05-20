@@ -1,0 +1,11 @@
+
+00444807
+StartTime;0.0;Sequence#;0;AudioFile;C:\Users\TSJ\Desktop\Droid Sounds\nothing.wav
+StartTime;3.9;Sequence#;1;AudioFile;n/a
+StartTime;4.0;Sequence#;n/a;AudioFile;C:\Users\TSJ\Desktop\Droid Sounds\i-still-cant-seem-to-hit-anything-101soundboards.wav
+StartTime;4.1;Sequence#;1;AudioFile;n/a
+StartTime;4.5;Sequence#;1;AudioFile;n/a
+StartTime;5.0;Sequence#;1;AudioFile;n/a
+StartTime;7.5;Sequence#;1;AudioFile;n/a
+StartTime;7.6;Sequence#;n/a;AudioFile;C:\Users\TSJ\Desktop\Droid Sounds\roger-roger-1-101soundboards.wav
+StartTime;180.0;Sequence#;n/a;AudioFile;n/a

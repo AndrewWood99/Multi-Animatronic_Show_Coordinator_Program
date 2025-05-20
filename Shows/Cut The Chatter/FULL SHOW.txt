@@ -1,0 +1,3 @@
+Left NEW;00444875;C:\Users\TSJ\Desktop\Cut The Chatter\Far Right.txt
+;00450286;C:\Users\TSJ\Desktop\Cut The Chatter\Right.txt
+;00444825;C:\Users\TSJ\Desktop\Cut The Chatter\Commander.txt

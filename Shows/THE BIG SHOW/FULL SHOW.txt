@@ -1,0 +1,5 @@
+Left NEW;00444875;C:\Users\TSJ\Desktop\THE BIG SHOW\Far Right.txt
+;00450286;C:\Users\TSJ\Desktop\THE BIG SHOW\Right.txt
+;00444817;C:\Users\TSJ\Desktop\THE BIG SHOW\Far Left.txt
+;00444825;C:\Users\TSJ\Desktop\THE BIG SHOW\Commander.txt
+;00444807;C:\Users\TSJ\Desktop\THE BIG SHOW\Left NEW.txt

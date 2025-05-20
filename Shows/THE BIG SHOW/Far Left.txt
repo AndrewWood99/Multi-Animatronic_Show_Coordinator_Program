@@ -1,0 +1,26 @@
+
+00444817
+StartTime;0.0;Sequence#;0;AudioFile;C:\Users\TSJ\Desktop\Droid Sounds\nothing.wav
+StartTime;200.5;Sequence#;3;AudioFile;n/a
+StartTime;201.5;Sequence#;n/a;AudioFile;C:\Users\TSJ\Desktop\Droid Sounds\this-is-alot-more-fun-when-they-dont-shoot-back-101soundboards.wav
+StartTime;201.6;Sequence#;4;AudioFile;n/a
+StartTime;202.0;Sequence#;4;AudioFile;n/a
+StartTime;202.4;Sequence#;4;AudioFile;n/a
+StartTime;202.8;Sequence#;4;AudioFile;n/a
+StartTime;207.0;Sequence#;0;AudioFile;n/a
+StartTime;207.3;Sequence#;1;AudioFile;n/a
+StartTime;207.4;Sequence#;n/a;AudioFile;C:\Users\TSJ\Desktop\Droid Sounds\roger-roger-2-101soundboards.wav
+StartTime;210.0;Sequence#;9;AudioFile;n/a
+StartTime;300.5;Sequence#;3;AudioFile;n/a
+StartTime;301.2;Sequence#;n/a;AudioFile;C:\Users\TSJ\Desktop\Droid Sounds\ah-sir-101soundboards.wav
+StartTime;301.3;Sequence#;5;AudioFile;n/a
+StartTime;301.9;Sequence#;5;AudioFile;n/a
+StartTime;303.6;Sequence#;4;AudioFile;C:\Users\TSJ\Desktop\Droid Sounds\i-forgot-my-orders-101soundboards.wav
+StartTime;304.0;Sequence#;4;AudioFile;n/a
+StartTime;306.5;Sequence#;0;AudioFile;n/a
+StartTime;307.0;Sequence#;0;AudioFile;C:\Users\TSJ\Desktop\Droid Sounds\uh-well-its-my-programming-101soundboards.wav
+StartTime;307.1;Sequence#;1;AudioFile;n/a
+StartTime;308.2;Sequence#;1;AudioFile;n/a
+StartTime;308.6;Sequence#;1;AudioFile;n/a
+StartTime;310.0;Sequence#;9;AudioFile;n/a
+StartTime;450.0;Sequence#;n/a;AudioFile;n/a
